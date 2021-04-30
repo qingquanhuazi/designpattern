@@ -9,10 +9,10 @@
   3、构造函数比较复杂
   4、循环体中生产大量对象时
 
-
+https://blog.csdn.net/qq877728715/article/details/103858729
 深克隆：每次会重新创建一个对象，是赋值，可能导致单例被破环
-浅克隆：赋地址值
+浅克隆：赋地址值(实现方式1、序列化2、转JSON)
 源码应用:
-    BeanUtils的copyProperties,ArrayList的clone
+    BeanUtils的copyProperties,ArrayList的clone(浅克隆，适用于集合元素搬家)
 原型模式就是如何快速构建对象的方法总结：
 简单工厂将getter、setter封装到某个方法中,JDK提供的实现Cloneable接口,实现快速复制
