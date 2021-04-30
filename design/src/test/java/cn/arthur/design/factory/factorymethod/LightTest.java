@@ -1,4 +1,4 @@
-package cn.arthur.design.simplefactory;
+package cn.arthur.design.factory.factorymethod;
 
 /**
  * 功能描述：
@@ -9,6 +9,5 @@ package cn.arthur.design.simplefactory;
 public class LightTest {
     public static void main(String[] args) {
         new GreenLightFactory().createLight().light();
-
     }
 }

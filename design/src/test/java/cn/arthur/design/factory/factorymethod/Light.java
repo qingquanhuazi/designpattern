@@ -1,4 +1,4 @@
-package cn.arthur.design.simplefactory;
+package cn.arthur.design.factory.factorymethod;
 
 /**
  * 功能描述：
