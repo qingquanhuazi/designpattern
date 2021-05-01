@@ -1,5 +1,5 @@
-server：
-  port:8090
+server:
+  port: 8090
 
 spring:
   redis:
