@@ -1,6 +1,6 @@
 package cn.arthur.design.strategy.pay.payport;
 
-import com.gupaoedu.vip.pattern.strategy.pay.MsgResult;
+import cn.arthur.design.strategy.pay.MsgResult;
 
 /**
  * Created by Tom.

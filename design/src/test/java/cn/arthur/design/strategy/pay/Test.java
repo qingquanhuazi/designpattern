@@ -1,6 +1,7 @@
 package cn.arthur.design.strategy.pay;
 
-import com.gupaoedu.vip.pattern.strategy.pay.payport.PayStrategy;
+
+import cn.arthur.design.strategy.pay.payport.PayStrategy;
 
 /**
  * Created by Tom.
