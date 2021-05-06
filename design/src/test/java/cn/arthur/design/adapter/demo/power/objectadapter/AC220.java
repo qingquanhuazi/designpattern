@@ -1,7 +1,7 @@
 package cn.arthur.design.adapter.demo.power.objectadapter;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class AC220 {
     public int outputAC220V(){

@@ -4,7 +4,7 @@ import cn.arthur.design.adapter.demo.passport.PassportService;
 import cn.arthur.design.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class AbstraceAdapter extends PassportService implements ILoginAdapter {
     protected ResultMsg loginForRegist(String username, String password){

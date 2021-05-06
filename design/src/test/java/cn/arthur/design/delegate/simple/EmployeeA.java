@@ -1,7 +1,7 @@
 package cn.arthur.design.delegate.simple;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class EmployeeA implements IEmployee {
     protected String goodAt = "编程";

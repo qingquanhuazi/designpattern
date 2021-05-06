@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 @SpringBootApplication
 public class Test {

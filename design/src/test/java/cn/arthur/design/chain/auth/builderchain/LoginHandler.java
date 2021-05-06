@@ -4,7 +4,7 @@ package cn.arthur.design.chain.auth.builderchain;
 import cn.arthur.design.chain.auth.Member;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class LoginHandler extends Handler {
     public void doHandler(Member member) {

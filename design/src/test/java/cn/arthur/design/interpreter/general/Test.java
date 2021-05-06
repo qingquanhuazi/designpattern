@@ -3,7 +3,7 @@ package cn.arthur.design.interpreter.general;
 import java.util.Stack;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {

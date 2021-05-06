@@ -1,7 +1,7 @@
 package cn.arthur.design.mediator.rpc;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class BService implements IService{
     Registy registy;

@@ -1,7 +1,7 @@
 package cn.arthur.design.adapter.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Adaptee {
 

@@ -3,7 +3,7 @@ package cn.arthur.design.strategy.pay.payport;
 import cn.arthur.design.strategy.pay.MsgResult;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class Payment {
 

@@ -5,7 +5,7 @@ import cn.arthur.design.strategy.pay.payport.PayStrategy;
 import cn.arthur.design.strategy.pay.payport.Payment;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Order {
     private String uid;

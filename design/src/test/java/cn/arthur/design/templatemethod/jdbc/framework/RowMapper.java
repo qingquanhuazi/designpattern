@@ -3,7 +3,7 @@ package cn.arthur.design.templatemethod.jdbc.framework;
 import java.sql.ResultSet;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public interface RowMapper<T> {
 

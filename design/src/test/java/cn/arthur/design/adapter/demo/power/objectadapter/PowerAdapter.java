@@ -3,7 +3,7 @@ package cn.arthur.design.adapter.demo.power.objectadapter;
 
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PowerAdapter implements DC5 {
     private AC220 ac220;

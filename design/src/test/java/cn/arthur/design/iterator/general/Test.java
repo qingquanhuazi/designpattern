@@ -1,7 +1,7 @@
 package cn.arthur.design.iterator.general;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {

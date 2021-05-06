@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class JdbcTemplate {
     private DataSource dataSource;

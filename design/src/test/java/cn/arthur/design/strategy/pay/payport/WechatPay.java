@@ -1,7 +1,7 @@
 package cn.arthur.design.strategy.pay.payport;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class WechatPay extends Payment {
     public String getName() {

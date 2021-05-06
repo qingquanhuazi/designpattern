@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {

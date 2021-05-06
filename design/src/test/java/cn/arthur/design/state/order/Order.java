@@ -1,7 +1,7 @@
 package cn.arthur.design.state.order;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Order {
     private int id;

@@ -1,7 +1,7 @@
 package cn.arthur.design.command.player;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public interface IAction {
     void execute();

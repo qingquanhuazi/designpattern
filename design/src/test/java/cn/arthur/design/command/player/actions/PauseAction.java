@@ -5,7 +5,7 @@ import cn.arthur.design.command.player.GPlayer;
 import cn.arthur.design.command.player.IAction;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PauseAction implements IAction {
     private GPlayer gplayer;

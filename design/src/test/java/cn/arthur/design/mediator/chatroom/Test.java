@@ -1,16 +1,16 @@
 package cn.arthur.design.mediator.chatroom;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {
         ChatRoom chatRoom = new ChatRoom();
 
-        User tom = new User("Tom",chatRoom);
+        User arthur = new User("arthur",chatRoom);
         User jerry = new User("Jerry",chatRoom);
 
-        tom.sendMessage("Hi! I am Tom.");
+        arthur.sendMessage("Hi! I am arthur.");
         jerry.sendMessage("Hello! My name is Jerry.");
     }
 }

@@ -5,7 +5,7 @@ import cn.arthur.design.observer.mouseevent.core.EventContext;
 
 /**
  * 具体的被观察者
- * Created by Tom.
+ * Created by arthur.
  */
 public class Mouse extends EventContext {
     public void click(){

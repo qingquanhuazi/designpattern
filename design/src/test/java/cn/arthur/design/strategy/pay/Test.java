@@ -4,7 +4,7 @@ package cn.arthur.design.strategy.pay;
 import cn.arthur.design.strategy.pay.payport.PayStrategy;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package cn.arthur.design.interpreter.calculate;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class MultiInterpreter extends Interpreter {
 

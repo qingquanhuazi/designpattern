@@ -1,7 +1,7 @@
 package cn.arthur.design.bridge.course;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PythonVideo implements IVideo {
 }

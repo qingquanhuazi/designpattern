@@ -1,7 +1,7 @@
 package cn.arthur.design.observer.guava;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Vo {
     private String name;

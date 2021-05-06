@@ -1,7 +1,7 @@
 package cn.arthur.design.memento.editor;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class ArticleMemento {
     private String title;

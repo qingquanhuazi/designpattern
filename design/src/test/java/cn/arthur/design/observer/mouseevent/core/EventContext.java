@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * 被观察者的抽象
- * Created by Tom.
+ * Created by arthur.
  */
 public class EventContext {
     protected Map<String,Event> events = new HashMap<String,Event>();

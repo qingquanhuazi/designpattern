@@ -1,7 +1,7 @@
 package cn.arthur.design.observer.general;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
 

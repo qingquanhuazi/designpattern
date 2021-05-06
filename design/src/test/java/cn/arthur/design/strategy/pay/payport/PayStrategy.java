@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PayStrategy {
     public static  final String ALI_PAY = "AliPay";

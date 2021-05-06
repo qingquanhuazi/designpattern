@@ -3,7 +3,7 @@ package cn.arthur.design.memento.editor;
 import java.util.Stack;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class DraftsBox {
     private final Stack<ArticleMemento> STACK = new Stack<ArticleMemento>();

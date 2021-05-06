@@ -1,7 +1,7 @@
 package cn.arthur.design.templatemethod.course;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class AbastractCourse {
 

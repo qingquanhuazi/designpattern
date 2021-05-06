@@ -1,7 +1,7 @@
 package cn.arthur.design.decorator.battercake.v2;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class SauageDecorator extends BattercakeDecorator{
 

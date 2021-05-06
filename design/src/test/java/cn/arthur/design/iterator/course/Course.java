@@ -1,7 +1,7 @@
 package cn.arthur.design.iterator.course;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Course {
     private String name;

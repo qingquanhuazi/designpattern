@@ -4,7 +4,7 @@ package cn.arthur.design.adapter.demo.passport.adapterv1;
 import cn.arthur.design.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public interface IPassportForThird {
 

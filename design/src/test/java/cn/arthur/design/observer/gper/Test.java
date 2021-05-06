@@ -1,15 +1,15 @@
 package cn.arthur.design.observer.gper;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {
         GPer gper = GPer.getInstance();
-        Teacher tom = new Teacher("Tom");
+        Teacher arthur = new Teacher("arthur");
         Teacher jerry = new Teacher("Jerry");
 
-        gper.addObserver(tom);
+        gper.addObserver(arthur);
         gper.addObserver(jerry);
 
         //用户行为

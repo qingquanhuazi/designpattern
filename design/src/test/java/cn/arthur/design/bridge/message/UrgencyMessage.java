@@ -1,7 +1,7 @@
 package cn.arthur.design.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class UrgencyMessage extends AbastractMessage {
     public UrgencyMessage(IMessage message) {

@@ -1,7 +1,7 @@
 package cn.arthur.design.delegate.mvc.controllers;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class SystemController {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Controller {
     private List<IAction> actions = new ArrayList<IAction>();

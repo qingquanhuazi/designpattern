@@ -3,7 +3,7 @@ package cn.arthur.design.observer.guava;
 import com.google.common.eventbus.Subscribe;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class VoEvent {
 

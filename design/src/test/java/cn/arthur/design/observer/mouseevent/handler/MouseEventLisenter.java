@@ -6,7 +6,7 @@ import cn.arthur.design.observer.mouseevent.core.EventListener;
 
 /**
  * 观察者
- * Created by Tom.
+ * Created by arthur.
  */
 public class MouseEventLisenter implements EventListener {
 

@@ -1,7 +1,7 @@
 package cn.arthur.design.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class AbastractMessage {
     private IMessage message;

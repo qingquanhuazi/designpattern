@@ -1,7 +1,7 @@
 package cn.arthur.design.decorator.battercake.v1;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  * 继承实现装饰，继承链路过长
  */
 public class Test {

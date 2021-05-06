@@ -7,7 +7,7 @@ import cn.arthur.design.command.player.actions.SpeedAction;
 import cn.arthur.design.command.player.actions.StopAction;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
     public static void main(String[] args) {

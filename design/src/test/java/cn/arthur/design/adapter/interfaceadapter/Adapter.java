@@ -2,7 +2,7 @@ package cn.arthur.design.adapter.interfaceadapter;
 
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public abstract class Adapter implements Target {
 

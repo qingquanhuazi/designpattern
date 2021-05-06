@@ -1,7 +1,7 @@
 package cn.arthur.design.strategy.promotion;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public interface IPromotionStrategy {
     void doPromotion();

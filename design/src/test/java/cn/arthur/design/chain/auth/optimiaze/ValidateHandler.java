@@ -5,7 +5,7 @@ import cn.arthur.design.chain.auth.Member;
 import org.springframework.util.StringUtils;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class ValidateHandler extends Handler {
     public void doHandler(Member member) {

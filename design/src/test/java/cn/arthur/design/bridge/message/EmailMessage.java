@@ -1,7 +1,7 @@
 package cn.arthur.design.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class EmailMessage implements IMessage {
     public void send(String message, String toUser) {

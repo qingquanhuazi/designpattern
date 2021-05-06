@@ -1,7 +1,7 @@
 package cn.arthur.design.observer.gper;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Question {
     private String userName;

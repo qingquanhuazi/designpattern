@@ -1,7 +1,7 @@
 package cn.arthur.design.strategy.pay;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class MsgResult {
     private int code;

@@ -1,7 +1,7 @@
 package cn.arthur.design.adapter.demo.passport;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Member {
 

@@ -1,7 +1,7 @@
 package cn.arthur.design.memento.editor;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Editor {
 
@@ -39,7 +39,7 @@ public class Editor {
         this.imgs = imgs;
     }
 
-    public ArticleMemento saveToMemento(){
+    public ArticleMemento savearthuremento(){
         ArticleMemento articleMemento = new ArticleMemento(this.title,this.content,this.imgs);
         return articleMemento;
     }

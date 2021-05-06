@@ -5,7 +5,7 @@ import cn.arthur.design.chain.auth.Member;
 import org.springframework.util.StringUtils;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class MemberService {
 
@@ -40,7 +40,7 @@ public class MemberService {
 
     public static void main(String[] args) {
         MemberService service = new MemberService();
-        service.login("tom","666");
+        service.login("arthur","666");
     }
 
 }

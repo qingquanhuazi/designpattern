@@ -2,7 +2,7 @@ package cn.arthur.design.facade.points;
 
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
 

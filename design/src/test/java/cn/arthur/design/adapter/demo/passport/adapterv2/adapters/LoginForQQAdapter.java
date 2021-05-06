@@ -3,7 +3,7 @@ package cn.arthur.design.adapter.demo.passport.adapterv2.adapters;
 import cn.arthur.design.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class LoginForQQAdapter extends AbstraceAdapter{
     public boolean support(Object adapter) {

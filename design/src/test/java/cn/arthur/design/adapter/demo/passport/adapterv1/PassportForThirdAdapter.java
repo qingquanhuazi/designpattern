@@ -5,7 +5,7 @@ import cn.arthur.design.adapter.demo.passport.PassportService;
 import cn.arthur.design.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PassportForThirdAdapter extends PassportService implements IPassportForThird {
 

@@ -1,7 +1,7 @@
 package cn.arthur.design.templatemethod.jdbc.entity;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Member {
 

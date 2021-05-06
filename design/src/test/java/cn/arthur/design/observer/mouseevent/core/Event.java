@@ -3,7 +3,7 @@ package cn.arthur.design.observer.mouseevent.core;
 import java.lang.reflect.Method;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Event {
     //事件源，动作是由谁发出的

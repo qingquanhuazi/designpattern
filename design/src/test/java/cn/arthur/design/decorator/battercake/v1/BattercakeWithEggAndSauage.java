@@ -1,7 +1,7 @@
 package cn.arthur.design.decorator.battercake.v1;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class BattercakeWithEggAndSauage extends BattercakeWithEgg {
 

@@ -1,7 +1,7 @@
 package cn.arthur.design.adapter.demo.power.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class PowerAdapter implements DC {
     private AC220 ac220;

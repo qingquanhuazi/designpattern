@@ -1,7 +1,7 @@
 package cn.arthur.design.chain.auth;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Member {
     private String loginName;

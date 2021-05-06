@@ -3,7 +3,7 @@ package cn.arthur.design.observer.guava;
 import com.google.common.eventbus.EventBus;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class Test {
 
@@ -16,6 +16,6 @@ public class Test {
         eventBus.register(guavaEvent);
         eventBus.register(voEvent);
 
-        eventBus.post(new Pojo("Tom"));
+        eventBus.post(new Pojo("arthur"));
     }
 }

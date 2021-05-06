@@ -1,7 +1,7 @@
 package cn.arthur.design.mediator.chatroom;
 
 /**
- * Created by Tom.
+ * Created by arthur.
  */
 public class User {
     private String name;
