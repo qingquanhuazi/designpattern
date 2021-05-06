@@ -26,3 +26,7 @@
 源码应用：      
 JDK日历类  Calendar.getInstance():
 日志类  LoggerFactory.getLogger()
+
+总结：产品标准化，生成更高效
+目的：封装创建细节
+案例：实体工厂

@@ -29,3 +29,7 @@
 
 源码应用：
 spring的InstantiationStrategy,Comparator的compare方法都由具体的数据结构去实现
+
+总结：条条大路通罗马，具体哪条你来定
+目的：把选择权交给用户
+生活案例：选择支付方式

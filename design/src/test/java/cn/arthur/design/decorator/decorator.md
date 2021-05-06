@@ -16,7 +16,7 @@
 在抽象装饰类中定义的方法,并可以增加新的方法用于扩充对象的行为
 
 源码应用:
-1、IO流之间的包装通过构造包装
+1、IO流之间的包装通过构造包装（如BufferedReader、InputStream）
 
 
 优点:
@@ -33,3 +33,5 @@
 3、代理模式强调代理过程的控制
 
 https://gper.club/homework/tasks/7e7e7f7ff7g5egc4g6agf0
+
+目的：灵活拓展、同宗同源

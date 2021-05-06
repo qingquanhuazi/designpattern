@@ -16,3 +16,9 @@ https://blog.csdn.net/qq877728715/article/details/103858729
     BeanUtils的copyProperties,ArrayList的clone(浅克隆，适用于集合元素搬家)
 原型模式就是如何快速构建对象的方法总结：
 简单工厂将getter、setter封装到某个方法中,JDK提供的实现Cloneable接口,实现快速复制
+
+
+总结：孙悟空拔猴毛，吹出一堆孙悟空
+目的：高效创建对象
+生活案例：克隆
+源码：arrayList、protoTypeBean

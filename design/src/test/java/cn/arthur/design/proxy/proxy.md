@@ -52,3 +52,8 @@ spring中的代理选择原则：
 2、当bean没有实现接口时,spring选择cglib
 3、spring可以通过配置强制使用CGLIB,只需在spring的配置文件中加入如下代码
 <aop:aspectj-autoproxy proxy-target-class="true"/>
+
+总结：没空需要别人帮你做
+目的：增强职责
+生活案例：媒婆
+源码：ProxyFactoryBean、JdkDynamicAopProxy、CglibAopProxy

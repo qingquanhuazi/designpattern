@@ -37,3 +37,8 @@ update()，因此又称为抽象观察者
 
 源码应用：
 基本listener结尾的都是观察者，如jdk的ServletContextListener，spring的ContextLoaderListener
+
+总结：到店通知我
+目的：解耦观察者与被观察者
+生活案例：闹钟
+

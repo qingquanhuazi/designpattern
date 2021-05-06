@@ -18,7 +18,7 @@
   实现了handler中的方法，在处理请求之前需要判断，看是否有相应的处理权限,如果可以处理请求就处理它，否则
   将请求转发给后继者；在具体处理者中可以访问链中的下一个对象,以便请求的转发。
 
-源码应用：Filter(javax.servlet包下)、spring的MockFilterChain,netty中的ChannelPipeline的实现类
+源码应用：FilterChain(javax.servlet包下)、spring的MockFilterChain,netty中的ChannelPipeline的实现类
 
 优点:
 1、将请求与处理解耦
@@ -26,3 +26,8 @@
 3、具备链式传递处理请求功能,请求发送者无需关注知晓链路结构，只需等待请求处理结果
 4、链路结构灵活，可以通过改变链路结构动态等新增或删减责任
 5、易于拓展新的请求处理类(节点),符合开闭原则
+
+总结：各人自扫门前雪，莫管他人瓦上霜
+目的：解耦处理逻辑
+生活案例：踢皮球
+
